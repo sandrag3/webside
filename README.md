@@ -24,7 +24,7 @@ Las tormentas tropicales son muy fuertes en el estado de cancun como:
 
 "Zeta" que alcanzó la categoría de huracán con vientos fuertes (con rachas de 130 a 150 kilómetros por hora) y oleaje elevado. 
 
-<img src = "https://www.infobae.com/new-resizer/Vls14RLa9nf6767R5UpuM_DEziU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/ infobae / 2BQ4VQNAFREJHEHFCIW5YRSWRE.jpg "ancho = 400 alto = 200>
+<img src = " "ancho = 400 alto = 200>
 <br>
 <br> 
 
